@@ -12,8 +12,12 @@ A springboot repository with basics of springboot
     - DELETE : The DELETE method is used to delete a resource from the server.
   
 - Used Dependencies
-    
     - Springboot Web framework
     - Lombok
     - Springboot starter
     - H2 database
+
+- TODO
+    - [ ] Implement free database source
+    - [ ] Make Kotlin branch
+    - [ ] Update README.md
